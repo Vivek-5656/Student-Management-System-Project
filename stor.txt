@@ -1,0 +1,3 @@
+145,Vivek,19,TTT,Enr
+254,Satyam,18,YYY,Enrolled
+264,Amar,25,EEE,Enr
